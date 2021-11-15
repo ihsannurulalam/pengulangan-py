@@ -8,7 +8,7 @@ periksa kembali perintah jika terjadi eror,jika perintah berhasil maka hasilnya 
 berikut  ini adalah perintah pemrograman labspy02
 ![img](screenshot/py2.1.png)
 jika terjadi eror periksa kembali hasil pemrogramannya,jika pemrograman berhasil maka akan seperti pada gambar berikut
-![img](scrennshot/py2.2.png)
+![img](screenshot/py2.2.png)
 #### program labspy03
 berikut ini adalah perintah untukpemrograman labspy03 
 ![img](screenshot/py3.1.png)
